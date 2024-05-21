@@ -1,0 +1,81 @@
+To-Do List Application
+1. Add Task
+2. Remove Task
+3. Mark Task as Completed
+4. List Tasks
+5. Exit
+Choose an option:  1
+Enter task description:  writing an Eassy
+Enter task priority (high, medium, low):  high
+Enter due date (YYYY-MM-DD):  2024-05-25
+
+To-Do List Application
+1. Add Task
+2. Remove Task
+3. Mark Task as Completed
+4. List Tasks
+5. Exit
+Choose an option:  1
+Enter task description:  Reading a Book
+Enter task priority (high, medium, low):  medium
+Enter due date (YYYY-MM-DD):  2024-05-23
+
+To-Do List Application
+1. Add Task
+2. Remove Task
+3. Mark Task as Completed
+4. List Tasks
+5. Exit
+Choose an option:  3
+1. cooking [Priority: medium, Due: 2024/05/01, Status: Done]
+2. writing an Eassy [Priority: medium, Due: 2024-05-25, Status: Pending]
+3. writing an Eassy [Priority: high, Due: 2024-05-25, Status: Pending]
+4. Reading a Book [Priority: medium, Due: 2024-05-23, Status: Pending]
+Enter task number to mark as completed:  3
+
+To-Do List Application
+1. Add Task
+2. Remove Task
+3. Mark Task as Completed
+4. List Tasks
+5. Exit
+Choose an option:  3
+1. cooking [Priority: medium, Due: 2024/05/01, Status: Done]
+2. writing an Eassy [Priority: medium, Due: 2024-05-25, Status: Pending]
+3. writing an Eassy [Priority: high, Due: 2024-05-25, Status: Done]
+4. Reading a Book [Priority: medium, Due: 2024-05-23, Status: Pending]
+Enter task number to mark as completed:  3
+
+To-Do List Application
+1. Add Task
+2. Remove Task
+3. Mark Task as Completed
+4. List Tasks
+5. Exit
+Choose an option:  3
+1. cooking [Priority: medium, Due: 2024/05/01, Status: Done]
+2. writing an Eassy [Priority: medium, Due: 2024-05-25, Status: Pending]
+3. writing an Eassy [Priority: high, Due: 2024-05-25, Status: Done]
+4. Reading a Book [Priority: medium, Due: 2024-05-23, Status: Pending]
+Enter task number to mark as completed:  4
+
+To-Do List Application
+1. Add Task
+2. Remove Task
+3. Mark Task as Completed
+4. List Tasks
+5. Exit
+Choose an option:  4
+1. cooking [Priority: medium, Due: 2024/05/01, Status: Done]
+2. writing an Eassy [Priority: medium, Due: 2024-05-25, Status: Pending]
+3. writing an Eassy [Priority: high, Due: 2024-05-25, Status: Done]
+4. Reading a Book [Priority: medium, Due: 2024-05-23, Status: Done]
+
+To-Do List Application
+1. Add Task
+2. Remove Task
+3. Mark Task as Completed
+4. List Tasks
+5. Exit
+Choose an option:  5
+Exiting application.
